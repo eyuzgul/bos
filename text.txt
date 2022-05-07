@@ -1,2 +1,8 @@
 fassdd
+<<<<<<< HEAD
 xxx
+=======
+
+
+server değişikliği
+>>>>>>> 7b7817dfd31d8ab8a0fabbd2d8cf2338409ecf54
