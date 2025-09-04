@@ -3,3 +3,6 @@ deneme metni
 ikinci branch ile eklendi
 
 ikinciden devam022
+
+
+dev branchtan yazıldı
