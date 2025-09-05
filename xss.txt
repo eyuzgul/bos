@@ -3,3 +3,4 @@ fff
 yeni dev.com
 
 
+yeni değişikliklerimizi dev modunda yaptık
