@@ -1,15 +1,5 @@
 fff
 
-
-aynı dosya mı var?
-
-geliştirme yapılıyor. ve kaydedince doğrudan dev.com a atiliyor. test yapiliyor
-testler devam
-
-
-
-dev ortaminda yapılan ekleme 
-dev.com testlerinde devam ediliyor
-
+yeni dev.com
 
 
