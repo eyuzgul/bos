@@ -3,3 +3,7 @@ fff
 
 aynı dosya mı var?
 
+geliştirme yapılıyor. ve kaydedince doğrudan dev.com a atiliyor. test yapiliyor
+testler devam
+
+
