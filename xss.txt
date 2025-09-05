@@ -7,3 +7,7 @@ geliştirme yapılıyor. ve kaydedince doğrudan dev.com a atiliyor. test yapili
 testler devam
 
 
+
+dev ortaminda yapılan ekleme 
+
+
